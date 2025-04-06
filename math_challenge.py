@@ -9,7 +9,7 @@ operations = {
     "/": operator.truediv
 }
 
-# Function to generate a random math problem
+# Function to generate a random 
 def generate_problem():
     num1 = random.randint(1, 20)
     num2 = random.randint(1, 20)
