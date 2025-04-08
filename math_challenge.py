@@ -1,5 +1,6 @@
 import random
 import operator
+import os
 
 # Dictionary to map operators to their symbols and functions
 operations = {
