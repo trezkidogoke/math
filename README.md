@@ -11,9 +11,7 @@ This Python script challenges the player to solve simple math problems involving
 ## How to Use
 
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python math_challenge.py
+2. Run the script.
    
 ## Example Output
 ``` bash 
