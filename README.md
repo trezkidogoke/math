@@ -4,7 +4,7 @@ This Python script challenges the player to solve simple math problems involving
 
 ## Features
 
-- Generates random math problems with basic operations (+, -, *, /).
+- Generates random math problems with basic operations (`+, -, *, /`).
 - Provides instant feedback on correctness.
 - Keeps track of the player's score.
 
