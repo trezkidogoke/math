@@ -1,5 +1,6 @@
 import random
 import operator
+import pandas as pd
 
 # Dictionary to map operators to their symbols and functions
 
