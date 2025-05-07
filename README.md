@@ -1,4 +1,4 @@
-# Math Challenge
+# Math Challenge (Test)
 
 This Python script challenges the player to solve simple math problems involving addition, subtraction, multiplication, and division. The player gets five problems and receives a score based on correct answers.
 
