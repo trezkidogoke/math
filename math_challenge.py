@@ -1,6 +1,6 @@
 import random
 import operator
-import pandas as pd
+import time
 
 # Dictionary to map operators to their symbols and functions
 
