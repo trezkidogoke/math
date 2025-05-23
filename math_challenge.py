@@ -5,6 +5,7 @@ import time
 # Dictionary to map operators to their symbols and functions
 
 operations = {
+    ".",
     "+": operator.add,
     "-": operator.sub,
     "*": operator.mul,
