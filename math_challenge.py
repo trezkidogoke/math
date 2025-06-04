@@ -1,5 +1,5 @@
 import random
-import operator
+import os
 import time
 
 # Dictionary to map operators to their symbols and functions
